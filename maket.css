@@ -75,7 +75,7 @@ body {
 .banner {
   width: 100%;
   height: 700px;
-  background-image: url("photo/Your\ image\ here.png");
+  background-image: url("Your\ image\ here.png");
   background-size: cover;
 }
 
